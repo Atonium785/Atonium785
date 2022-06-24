@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+	overflow-x: hidden;
+}
+
+header.header {
+	background-color: black;
+	height: 75px;
+	width: 1600px;
+}
+
+h1{
+	text-align: center;
+}
